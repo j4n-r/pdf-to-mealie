@@ -2,6 +2,8 @@
 # Compiled class files
 *.class
 
+cookBook.pdf
+recipeImage*.png
 # Log files
 *.log
 
